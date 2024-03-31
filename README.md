@@ -1,5 +1,5 @@
 # Blog
-Backend Rest Api's of Blog application is developed using java,hibernate,mysql,springboot where admin can performed crud operation on each apis of user,post,comment and category and user can perfrom crud operation on post and comment where all apis are interconnected using mapping.
+Backend Rest Api's of Blog application is developed using java,hibernate,mysql,springboot where admin can performed crud operation on each apis of user,post,comment and category and user can perfrom crud operation on post and comment where all apis are interconnected using mapping also exception on each apis are taken care.
 
 All crud operation done using json and some screenshot attached below.
 ![Screenshot (108)](https://github.com/shubhampandey7/Blog/assets/126947148/a297ea40-2498-428c-9334-b5751382f278)
